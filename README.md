@@ -5,7 +5,7 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreyal18ss/SQLPaybook/blob/main/CoffeeShop_SQLipynb.ipynb)
 
 > ⚠️ **Heads up: this project is vibe coded.**
-> I built it with AI assistance for my own SQL practice and quick revision. It is not production code and is not a formal course. Queries and explanations may contain mistakes or shortcuts, so double-check anything important before relying on it.
+> I built it with AI assistance for my own SQL practice and quick revision. 
 
 ---
 
