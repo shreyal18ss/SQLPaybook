@@ -2,7 +2,7 @@
 
 33 step-by-step SQL scenarios on a coffee shop database, in a **single Google Colab notebook**. Built for **SQL practice and quick revision**.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreyal18ss/SQLPaybook/blob/main/CoffeeShop_SQL_Playbook.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreyal18ss/SQLPaybook/blob/main/CoffeeShop_SQLipynb.ipynb)
 
 > ⚠️ **Heads up: this project is vibe coded.**
 > I built it with AI assistance for my own SQL practice and quick revision. It is not production code and is not a formal course. Queries and explanations may contain mistakes or shortcuts, so double-check anything important before relying on it.
@@ -85,7 +85,7 @@ Keep the `docs/img/` folder next to the guide, or the diagrams will not show.
 
 ```
 SQLPaybook/
-├── CoffeeShop_SQL_Playbook.ipynb   # the whole playbook: database, scenarios and web page
+├── CoffeeShop_SQLipynb.ipynb   # the whole playbook: database, scenarios and web page
 ├── docs/
 │   ├── SQL_TOPICS_GUIDE.md         # illustrated topic guide
 │   └── img/                        # diagrams used by the guide
@@ -134,6 +134,5 @@ MIT
 ---
 
 *Made for learning, not perfection. Happy querying! ☕*
-
 <img width="2244" height="1436" alt="image" src="https://github.com/user-attachments/assets/009e0c06-5bde-48ef-b115-c19c7deecd81" />
 
